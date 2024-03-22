@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889850811422",
+    "project_id": "loguinfirebase-2873c",
+    "storage_bucket": "loguinfirebase-2873c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889850811422:android:b788e36b48396bbe504a0f",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889850811422-3apdn529d9u5d1lkl9mlreasb482rpb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9vHMGnxuqYqdaSU5_5RQ3-ooTes-Y9AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889850811422-3apdn529d9u5d1lkl9mlreasb482rpb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
